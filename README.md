@@ -7,6 +7,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseffreitasjr&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
+<br/>
+<hr>
+
 ## Tecnologias que eu estou aprendendo
 
 <div style="display: inline_block"><br>
@@ -16,18 +19,14 @@
 </div>
  
  <br>
+ <hr>
  
-  ### Meus Contatos
- 
+  ## Meus Contatos
+ <br/>
 <div> 
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:josef.freitasjr@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joseffreitasjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<<<<<<< HEAD
- 
-=======
-
->>>>>>> 6da86fa84569bdd4b83a4b1ff35c14aa9578f19f
 </div>
 
 
