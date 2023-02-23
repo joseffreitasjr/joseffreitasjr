@@ -20,9 +20,8 @@
  
  <br>
  <hr>
- 
+
   ## Meus Contatos
- <br/>
 <div> 
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:josef.freitasjr@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank"></a>
