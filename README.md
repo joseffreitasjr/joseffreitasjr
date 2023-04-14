@@ -3,12 +3,11 @@
 
  <div>
    <a href="https://github.com/joseffreitasjr"></a>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseffreitasjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseffreitasjr&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseffreitasjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseffreitasjr&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
-<br/>
 <hr>
+
 
 ## Tecnologias que eu estou aprendendo
 
@@ -17,8 +16,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
- 
- <br>
  <hr>
 
   ## Meus Contatos
@@ -29,3 +26,31 @@
 </div>
 
 
+<<<<<<< HEAD
+=======
+
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+ 
+  
+
+ 
+  
+  
+>>>>>>> 928be910eb4f94af5ec41552841cb12f7b672a10
