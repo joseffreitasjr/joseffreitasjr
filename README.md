@@ -9,30 +9,7 @@
 <hr>
 
 
-## Tecnologias que eu estou aprendendo
-
-<div style="display: inline_block"><br>
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank">
-</div>
-
-<div>
-   <img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
-</div>
- <hr>
-
-  ## Meus Contatos
-<div> 
-   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:josef.freitasjr@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=purple" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joseffreitasjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-  ![Snake animation](https://github.com/joseffreitasjr/joseffreitasjr/blob/output/github-contribution-grid-snake.svg)
-
-<hr>
+## Tecnologias, linguagens e ferramentas que eu estou aprendendo
 
 <table align="center">
 
@@ -73,6 +50,21 @@
     </td>
  </tr>
 </table>
+
+<div>
+   <img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
+</div>
+ <hr>
+
+  ## Meus Contatos
+<div> 
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:josef.freitasjr@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=purple" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joseffreitasjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+  ![Snake animation](https://github.com/joseffreitasjr/joseffreitasjr/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
