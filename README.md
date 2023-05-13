@@ -31,13 +31,8 @@
  
  
   ![Snake animation](https://github.com/joseffreitasjr/joseffreitasjr/blob/output/github-contribution-grid-snake.svg)
------------------------------------------------------------------------------------------------------------------------------------------------ 
+
 <hr>
-
-
-## Jubayer Riyad favorite tools and technologies ⚙️ 
-
-> Tools and technologies that I have worked with and am interested in
 
 <table align="center">
 
@@ -54,9 +49,6 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-</tr>
-
-<tr>
     <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
@@ -67,22 +59,19 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
-</tr>
-
-<tr>
      <td align="center" width="96">
       <a href="#ubuntu" >
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
     </td>
-     
-      <td align="center"  width="96">
+    <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
+ </tr>
 </table>
 
 
