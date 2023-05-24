@@ -1,14 +1,6 @@
 
 ## Seja bem-vindo(a) ao meu Perfil!
 
- <div>
-   <a href="https://github.com/joseffreitasjr"></a>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseffreitasjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseffreitasjr&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<hr>
-
-
 ## Tecnologias, linguagens e ferramentas que eu estou aprendendo
 
 <table align="center">
