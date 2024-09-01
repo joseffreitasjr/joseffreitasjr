@@ -1,7 +1,17 @@
 
-## Seja bem-vindo(a) ao meu Perfil!
+# Olá, Seja bem-vindo(a) ao meu Perfil!
 
-## Tecnologias, linguagens e ferramentas que eu estou aprendendo
+## Atuação Profissional
+- Atual: Funcionário Público (Agente Administrativo)
+
+## Objetivo Profissional 
+- 🚀 Atuar como Desenvolvedor Front-end.
+  
+## Formação
+  - Atualmente: cursando Pós-graduação em Gestão Pública na Faculdade Focus.
+  - Formação Superior em 🌐 Análise e Desenvolvimento de Sistemas - FATEC Mogi Mirim - Arthur de Azevedo.
+
+## Tecnologias e ferramentas que eu estou aprendendo
 
 <table align="center">
 
@@ -28,13 +38,7 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
-     <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-    <td align="center"  width="96">
+         <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
@@ -43,33 +47,25 @@
  </tr>
 </table>
 
-<div>
-   <img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
-</div>
- <hr>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joseffreitasjr&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=joseffreitasjr&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+
+
+## Projetos Desenvolvidos
+- Projeto Android: 
+  - Site: [https://joseffreitasjr.github.io/projeto-android]
+- Projeto Cordel:
+    - Site: [https://joseffreitasjr.github.io/projeto-cordel/]
+- Code Cafe Project
+  - Site: [https://joseffreitasjr.github.io/code-cafe-project/]
+- Pop-up01:
+  - Site: [https://github.com/joseffreitasjr/pop-up01/deployments/github-pages]
 
   ## Meus Contatos
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:josef.freitasjr@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=purple" target="_blank"></a>
+<div>  
   <a href="https://www.linkedin.com/in/joseffreitasjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href= "mailto:josef.freitasjr@yahoo.com"><img src= "https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)"></a>
 </div>
- 
- 
-  ![Snake animation](https://github.com/joseffreitasjr/joseffreitasjr/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
