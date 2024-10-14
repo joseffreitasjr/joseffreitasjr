@@ -8,7 +8,7 @@
 - 🚀 Atuar como Desenvolvedor Front-end.
   
 ## Formação
-  - Atualmente: cursando Pós-graduação em Gestão Pública na Faculdade Focus.
+  - Pós-graduação, especialização - Gestão Pública na Faculdade Focus.
   - Formação Superior em 🌐 Análise e Desenvolvimento de Sistemas - FATEC Mogi Mirim - Arthur de Azevedo.
 
 ## Tecnologias e ferramentas que eu estou aprendendo
