@@ -56,7 +56,7 @@
 
 ## Projetos Desenvolvidos
 - Projeto Dragon Ball:
-  - Site: [https://lnkd.in/dhpTuqq6]
+  - Site: [https://lnkd.in/dhpTuqq6](https://joseffreitasjr.github.io/projeto-dragon-ball]
 - Projeto Android: 
   - Site: [https://joseffreitasjr.github.io/projeto-android]
 - Code Cafe Project
