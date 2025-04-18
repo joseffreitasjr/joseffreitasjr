@@ -55,10 +55,10 @@
 
 
 ## Projetos Desenvolvidos
+- Projeto Dragon Ball:
+  - Site: [https://lnkd.in/dhpTuqq6]
 - Projeto Android: 
   - Site: [https://joseffreitasjr.github.io/projeto-android]
-- Projeto Cordel:
-    - Site: [https://joseffreitasjr.github.io/projeto-cordel/]
 - Code Cafe Project
   - Site: [https://joseffreitasjr.github.io/code-cafe-project/]
 - Pop-up01:
